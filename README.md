@@ -186,9 +186,9 @@ LUXEM           0.87    1.00    0.65     0.78
 X-Stream        0.72    0.65    1.00     0.68
 Agents          0.91    0.78    0.68     1.00
 
-⊕ Strong Consensus (>0.85)
-⟡ Moderate Alignment (0.5-0.85)
-⊖ Divergence (<0.5)
+⊕ Strong Consensus (>x)
+⟡ Moderate Alignment (x-x)
+⊖ Divergence (<x)
 ```
 
 ### **Timeline View**
