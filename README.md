@@ -181,10 +181,10 @@ Retrospective investigation:
 ```text
 Correlation Matrix (Last 1 Hour)
               Stallion  LUXEM  X-Stream  Agents
-Stallion        1.00    0.87    0.72     0.91
-LUXEM           0.87    1.00    0.65     0.78
-X-Stream        0.72    0.65    1.00     0.68
-Agents          0.91    0.78    0.68     1.00
+Stallion        x.00    0.xx    0.xx     0.xx
+LUXEM           0.xx    x.00    0.xx     0.xx
+X-Stream        0.xx    0.xx    x.00     0.xx
+Agents          0.xx    0.xx    0.xx    x.00
 
 ⊕ Strong Consensus (>x)
 ⟡ Moderate Alignment (x-x)
